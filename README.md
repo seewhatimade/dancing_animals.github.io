@@ -1,6 +1,6 @@
 # Dancing Animals!
 
-https://github.com/seewhatimade/dancing_animals.github.io/
+https://seewhatimade.github.io/dancing_animals.github.io/
 
 ## How to Play
 
